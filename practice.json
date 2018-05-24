@@ -1,0 +1,62 @@
+// Sample 1
+[{
+    "id": 1,
+    "first_name": "Daenerys",
+    "last_name": "Targaryen",
+    "email": "dragonsRcool0@census.gov",
+    "gender": "Female",
+    "ip_address": "11.11.111.1"
+  }, {
+    "id": 2,
+    "first_name": "Sheev",
+    "last_name": "Palpatine",
+    "email": "totallynotevil@senate.gov",
+    "gender": "Male",
+    "ip_address": "111.111.1.111"
+  }, {
+    "id": 3,
+    "first_name": "Zaphod",
+    "last_name": "Beeblebrox",
+    "email": "spacepresident42@imageshack.us",
+    "gender": "Male",
+    "ip_address": "111.11.111.111"
+  }, {
+    "id": 4,
+    "first_name": "Froederick",
+    "last_name": "Frankenstein",
+    "email": "reanimator@vk.com",
+    "gender": "Male",
+    "ip_address": "11.11.111.11"
+  }]
+
+  // Sample 2
+
+  [
+    {
+      "_id": "5973782bdb9a930533b05cb2",
+      "isActive": true,
+      "balance": "$1,446.35",
+      "age": 32,
+      "eyeColor": "green",
+      "name": "Logan",
+      "gender": "male",
+      "company": "ARTIQ",
+      "email": "wolverine@artiq.com",
+      "phone": "+1 (555) 555-5555",
+      "friends": [
+        {
+          "id": 0,
+          "name": "Colon Salazar"
+        },
+        {
+          "id": 1,
+          "name": "French Mcneil"
+        },
+        {
+          "id": 2,
+          "name": "Carol Martin"
+        }
+      ],
+      "favoriteFruit": "banana"
+    }
+  ]
