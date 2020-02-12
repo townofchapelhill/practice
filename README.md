@@ -7,16 +7,16 @@
 ### Dataset 1
 **Description:** This is a descriptive paragraph.\
 **Stakeholder(s):** Who is responsible for this dataset.\
-**Licensing:** This is licensing information.\
+**Licensing:** This is licensing information.
 
 <a name="dataset2"></a>
 ### Dataset 2
 **Description:** This is a descriptive paragraph.\
 **Stakeholder(s):** Who is responsible for this dataset.\
-**Licensing:** This is licensing information.\
+**Licensing:** This is licensing information.
 
 <a name="dataset3"></a>
 ### Dataset 3
 **Description:** This is a descriptive paragraph.\
 **Stakeholder(s):** Who is responsible for this dataset.\
-**Licensing:** This is licensing information.\
+**Licensing:** This is licensing information.
